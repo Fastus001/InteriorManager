@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-12-07T21:39:52.879559800Z</date>
+  <millis>1607377192879</millis>
+  <nanos>559800</nanos>
+  <sequence>0</sequence>
+  <logger>manager.InteriorManager</logger>
+  <level>FINER</level>
+  <class>manager.InteriorManager</class>
+  <method>addRoomWithFurniture()</method>
+  <thread>1</thread>
+  <message>ENTRY</message>
+</record>
+<record>
+  <date>2020-12-07T21:39:52.910827500Z</date>
+  <millis>1607377192910</millis>
+  <nanos>827500</nanos>
+  <sequence>1</sequence>
+  <logger>manager.InteriorManager</logger>
+  <level>INFO</level>
+  <class>manager.InteriorManager</class>
+  <method>addRoomWithFurniture</method>
+  <thread>1</thread>
+  <message>Total price for furniture in room is - 2.25</message>
+</record>
+<record>
+  <date>2020-12-07T21:39:52.958858400Z</date>
+  <millis>1607377192958</millis>
+  <nanos>858400</nanos>
+  <sequence>2</sequence>
+  <logger>manager.InteriorManager</logger>
+  <level>FINER</level>
+  <class>manager.InteriorManager</class>
+  <method>addRoomWithFurniture()</method>
+  <thread>1</thread>
+  <message>RETURN</message>
+</record>
+<record>
+  <date>2020-12-07T21:39:52.958858400Z</date>
+  <millis>1607377192958</millis>
+  <nanos>858400</nanos>
+  <sequence>3</sequence>
+  <logger>manager.InteriorManager</logger>
+  <level>FINER</level>
+  <class>manager.InteriorManager</class>
+  <method>addRoomWithFurniture()</method>
+  <thread>1</thread>
+  <message>ENTRY</message>
+</record>
+<record>
+  <date>2020-12-07T21:39:52.958858400Z</date>
+  <millis>1607377192958</millis>
+  <nanos>858400</nanos>
+  <sequence>4</sequence>
+  <logger>manager.InteriorManager</logger>
+  <level>INFO</level>
+  <class>manager.InteriorManager</class>
+  <method>addRoomWithFurniture</method>
+  <thread>1</thread>
+  <message>Total price for furniture in room is - 0.0</message>
+</record>
+<record>
+  <date>2020-12-07T21:39:52.958858400Z</date>
+  <millis>1607377192958</millis>
+  <nanos>858400</nanos>
+  <sequence>5</sequence>
+  <logger>manager.InteriorManager</logger>
+  <level>FINER</level>
+  <class>manager.InteriorManager</class>
+  <method>addRoomWithFurniture()</method>
+  <thread>1</thread>
+  <message>RETURN</message>
+</record>
+<record>
+  <date>2020-12-07T21:39:52.958858400Z</date>
+  <millis>1607377192958</millis>
+  <nanos>858400</nanos>
+  <sequence>6</sequence>
+  <logger>manager.InteriorManager</logger>
+  <level>FINER</level>
+  <class>manager.InteriorManager</class>
+  <method>addRoomWithFurniture()</method>
+  <thread>1</thread>
+  <message>ENTRY</message>
+</record>
+<record>
+  <date>2020-12-07T21:39:52.958858400Z</date>
+  <millis>1607377192958</millis>
+  <nanos>858400</nanos>
+  <sequence>7</sequence>
+  <logger>manager.InteriorManager</logger>
+  <level>INFO</level>
+  <class>manager.InteriorManager</class>
+  <method>addRoomWithFurniture</method>
+  <thread>1</thread>
+  <message>Total price for furniture in room is - 4.5</message>
+</record>
+<record>
+  <date>2020-12-07T21:39:52.958858400Z</date>
+  <millis>1607377192958</millis>
+  <nanos>858400</nanos>
+  <sequence>8</sequence>
+  <logger>manager.InteriorManager</logger>
+  <level>FINER</level>
+  <class>manager.InteriorManager</class>
+  <method>addRoomWithFurniture()</method>
+  <thread>1</thread>
+  <message>RETURN</message>
+</record>
+</log>
